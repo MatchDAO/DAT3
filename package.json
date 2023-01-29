@@ -1,0 +1,13 @@
+{
+    "name": "IM",
+    "version": "1.0.0",
+    "description": "uni-app 国际化",
+    "keywords": [],
+    "dcloudext": {
+        "category": []
+    },
+    "dependencies": {
+        "axios": "0.21.1",
+        "ethers": "^5.7.2"
+    }
+}
